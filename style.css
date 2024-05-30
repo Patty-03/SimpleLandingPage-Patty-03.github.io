@@ -6,6 +6,7 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     text-decoration: none;
+    color: #111;
 }
 
 section{
@@ -15,7 +16,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(./media/bg.png) no-repeat;
+    background: url(./media/Bg-landingPage.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -163,7 +164,7 @@ label{
         z-index: 2;
         position: fixed;
         /*Cambiar color al predominante del fondo*/
-        background: #eee1e1;
+        background: #90f1efff;
         top: 0;
         bottom: 0;
         left: 0;
